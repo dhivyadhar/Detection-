@@ -1,2 +1,2 @@
-# Detection-
-machine learning project for fake new detection.
+# Detection
+machine learning project for fake news detection using NLP.
